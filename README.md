@@ -62,6 +62,6 @@ Oh gosh! When I first decided to take on this project, it seemed pretty simple i
 ## Author
 
 - Website - [Jewel](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/programmerjewel)
+- Frontend Mentor - [programmerjewel](https://www.frontendmentor.io/profile/programmerjewel)
 
 
