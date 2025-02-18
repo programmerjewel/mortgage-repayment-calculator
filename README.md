@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/programmerjewel/mortgage-repayment-calculator](Solution)
-- Live Site URL: [https://programmerjewel.github.io/mortgage-repayment-calculator/](Live Link)
+- Live Site URL: [https://programmerjewel.github.io/mortgage-repayment-calculator/](Livelink)
 
 ## My process
 
